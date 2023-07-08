@@ -1,3 +1,5 @@
+Original FPV Radar forked from fpvradar - not sure about this Bruce guy, seems like a bit of a goose, I dont think his unit is the real deal. Seems odd that he says he's been going to release the code to aeromodellers but never did.
+
 # FPV Radar
 
 https://youtu.be/YkmsAgEEuzo  
